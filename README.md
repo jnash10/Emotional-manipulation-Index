@@ -6,9 +6,9 @@ Get scores of how 'persuasive' a Youtube video is using the power of NLP.
 ## requirements
 navigate to inside th repository and run:
 <br />
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 <br />
-python3 -m pip install requirements.txt
+python3 -m pip install -r requirements.txt
 <br />
 ## Driver code
 <br />
