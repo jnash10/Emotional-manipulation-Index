@@ -1,4 +1,4 @@
-# fictometer
+# persuation-meter
 Get scores of how 'persuasive' a Youtube video is using the power of NLP.
 <br />
 # Usage
