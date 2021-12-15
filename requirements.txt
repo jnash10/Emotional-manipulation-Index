@@ -1,0 +1,3 @@
+joblib==1.1.0
+stanza==1.3.0
+youtube_transcript_api==0.4.3
