@@ -10,6 +10,10 @@ python -m pip install -r requirements.txt
 <br />
 python3 -m pip install -r requirements.txt
 <br />
+then in your python interpreter:
+
+import stanza
+stanza.download('en')
 ## Driver code
 <br />
 python3 main.py
