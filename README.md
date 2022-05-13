@@ -13,6 +13,7 @@ python3 -m pip install -r requirements.txt
 then in your python interpreter:
 
 import stanza
+<br />
 stanza.download('en')
 ## Driver code
 <br />
