@@ -1,4 +1,4 @@
-# persuation-meter
+# Emotional Manipulation Index
 Get scores of how 'persuasive' a Youtube video is using the power of NLP.
 <br />
 # Usage
