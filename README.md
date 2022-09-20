@@ -1,5 +1,5 @@
 # Emotional Manipulation Index
-Extended work of Dr. Kushal Shah↗ to derive Emotional manipulation index from Youtube speech captions. Their work
+Extended work of Dr. Kushal Shah[↗](https://aclanthology.org/W19-3409/) to derive Emotional manipulation index from Youtube speech captions. Their work
 was limited to non-vocal written datasets. Made relevant modifications to algorithm for vocal data.
 
 Referenced Work: https://aclanthology.org/W19-3409/
